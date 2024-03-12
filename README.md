@@ -21,7 +21,9 @@ Image Classification: Learn how to use machine learning to create image classifi
 Support Vector Machine (SVM): An SVM that can perform efficient and effective binary classification function.
 
 Data Preprocessing: Improve capabilities to prepare image data for machine learning, including resizing, normalization, and dataset segmentation.
+
 Model Evaluation: Learn how to use basic metrics to evaluate model performance and interpret results for image classification.
+
 Kaggle dataset: Learn real data on Kaggle construction and get a deep understanding of the issues and precautions in making datasets.
 
 Work done during the machine learning internship at Prodigy Infotech.
